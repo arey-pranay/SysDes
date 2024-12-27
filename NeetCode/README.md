@@ -1,4 +1,4 @@
-# SysDes by Neetcode [https://youtube.com/playlist?list=PLot-Xpze53le35rQuIbRET3YwEtrcJfdt&si=QnoFd4yOVgwwKocy]
+# [SysDes by Neetcode](https://youtube.com/playlist?list=PLot-Xpze53le35rQuIbRET3YwEtrcJfdt&si=QnoFd4yOVgwwKocy)
 
 This repository provides an overview of key system design concepts that are crucial for building scalable and efficient systems.
 
