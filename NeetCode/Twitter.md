@@ -4,6 +4,8 @@ Design a scalable, reliable, and high-performance system for a platform like **T
 
 ---
 
+![Uploading image.png…]()
+
 ## Key Design Components
 
 ### 1. **Functional Requirements**
