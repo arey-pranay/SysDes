@@ -4,7 +4,8 @@ Design a scalable, reliable, and high-performance system for a platform like **T
 
 ---
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/002fb62c-3849-4977-ae30-0993394e8cc4)
+
 
 ## Key Design Components
 
