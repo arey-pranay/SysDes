@@ -90,3 +90,5 @@ This repository provides an overview of key system design concepts that are cruc
 - **Message Queues**:  
   A communication method used to decouple application components by storing messages for later processing. It helps in managing workloads and ensuring durability.
 
+
+More about these concepts is explained in detail in the different markdown files 
